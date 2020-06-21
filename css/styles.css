@@ -27,29 +27,28 @@ text-align: center;
                    10px 10px 3px black;
 
 }
-.texto1{
-  background-color: black;
-}
+
 .texto2{
   margin-top: 25px;
 }
-.Bryner{
+.Bryner, .Diego, .Eunice{
   margin-top: 25px;
+  margin-bottom: 25px;
   float: center;
 }
-.imagenBryner, .imagenDiego{
+.imagenBryner, .imagenDiego, .imagenEunice{
   width: 220px;
    height: 220px;
    float: center;
 }
-.contenido{
-  background-color: black;
+.datos{
+  display: block;
 }
-.Diego{
-  margin-top: 25px;
-  float: center;
+.box{
+ display: inline-block;
+ padding: 10px;
+ 
 }
-.Eunice{
-  margin-top: 25px;
-  float: center;
+ul{
+  list-style-type: none;
 }
