@@ -37,14 +37,17 @@ text-align: center;
   float: center;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 .imagenBryner, .imagenDiego{
-  width: 500px;
-   height: 500px;
+  width: 220px;
+   height: 220px;
    float: center;
 }
 .contenido{
   background-color: gray;
 =======
+=======
+>>>>>>> 5547e1804f28a2aa3e8c711f7d698dc892221ed2
 .imagenBryner, .imagenDiego, .imagenEunice{
   width: 220px;
    height: 220px;
@@ -52,6 +55,9 @@ text-align: center;
 }
 .datos{
   display: block;
+<<<<<<< HEAD
+>>>>>>> 5547e1804f28a2aa3e8c711f7d698dc892221ed2
+=======
 >>>>>>> 5547e1804f28a2aa3e8c711f7d698dc892221ed2
 }
 .box{
