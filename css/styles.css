@@ -12,7 +12,7 @@ body{
   margin-top: 50px;
   justify-content: center;
   height: 100vh	;
-  background: #efb810;
+  background: #efb810 ;
 
 }
 .texto1, .texto2{
@@ -21,23 +21,22 @@ body{
 text-align: center;
   font-size: 40px;
   color: white;
-  text-shadow: 1px 1px 0px #a9a9a9, 2px 2px 0px #a2a2a2, 3px 3px 0px #000000,
+  text-shadow: 1px 1px 0px #a9a9a9, 2px 2px 0px #a2a2a2, 3px 3px 0px #b5b5b5,
                    4px 4px 0px black,
                    5px 5px 0px black,
                    10px 10px 3px black;
 
 }
-
+.texto1{
+  background-color: black;
+}
 .texto2{
   margin-top: 25px;
 }
-.Bryner, .Diego, .Eunice{
+.Bryner{
   margin-top: 25px;
-  margin-bottom: 25px;
   float: center;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 .imagenBryner, .imagenDiego{
   width: 220px;
    height: 220px;
@@ -45,26 +44,12 @@ text-align: center;
 }
 .contenido{
   background-color: gray;
-=======
-=======
->>>>>>> 5547e1804f28a2aa3e8c711f7d698dc892221ed2
-.imagenBryner, .imagenDiego, .imagenEunice{
-  width: 220px;
-   height: 220px;
-   float: center;
 }
-.datos{
-  display: block;
-<<<<<<< HEAD
->>>>>>> 5547e1804f28a2aa3e8c711f7d698dc892221ed2
-=======
->>>>>>> 5547e1804f28a2aa3e8c711f7d698dc892221ed2
+.Diego{
+  margin-top: 25px;
+  float: center;
 }
-.box{
- display: inline-block;
- padding: 10px;
- 
-}
-ul{
-  list-style-type: none;
+.Eunice{
+  margin-top: 25px;
+  float: center;
 }
