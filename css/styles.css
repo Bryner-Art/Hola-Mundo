@@ -12,7 +12,7 @@ body{
   margin-top: 50px;
   justify-content: center;
   height: 100vh	;
-  background: #efb810 ;
+  background: #f4a900;
 
 }
 .texto1, .texto2{
@@ -22,9 +22,9 @@ text-align: center;
   font-size: 40px;
   color: white;
   text-shadow: 1px 1px 0px #a9a9a9, 2px 2px 0px #a2a2a2, 3px 3px 0px #b5b5b5,
-                   4px 4px 0px black,
+                   4px 4px 50px black,
                    5px 5px 0px black,
-                   10px 10px 3px black;
+                   40px 10px 3px black;
 
 }
 .texto1{
